@@ -1,8 +1,6 @@
-/* eslint-disable no-undef */
 import './App.css';
 import 'zinggrid';
 
-ZingGrid.serLicense()
 
 function App() {
   const data = [
